@@ -57,7 +57,6 @@ Experienced Software Architect and Azure Solutions Architect with 20 years in cl
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tpAbhishek&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tpAbhishek&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tpAbhishek&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
