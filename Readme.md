@@ -14,7 +14,7 @@ With **20 years of experience** in application design and cloud architecture, I 
 * [AlgoExpert: Systems Expert](https://certificate.algoexpert.io/SystemsExpert%20Certificate%20SE-00379bfeda)
 * [SAFe 4 Agilist](./Credentials/Safe4Certificate.pdf)
 * [Software Architecture & Technology of Large-Scale Systems](https://www.udemy.com/certificate/UC-087329c4-9c27-4f8a-a046-347b899cb86b/)
-* [Docker](./Certifications/DockerKodeCloud.pdf)
+* [Docker](./Credentials/DockerKodeCloud.pdf)
 
 ### 📁 Architecture Projects
 - <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
