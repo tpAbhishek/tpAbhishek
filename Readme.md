@@ -2,11 +2,18 @@
 Experienced Software Architect and Azure Solutions Architect with 20 years in cloud solutions, application design, project delivery, and security practices. Azure multi-certified, specializing in building scalable, secure, and cost-efficient architectures using automation tools. Led a major cloud migration, achieving a 15% reduction in operational costs and a 10% efficiency gain within nine months.
 
 ## Architecture Projects
-- <a href="https://google.com">Real-Time Fraud Detection & Case Management Platform</a>
+- <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+  <!-- Azure Fundamentals -->
+[![Azure Fundamentals](https://shields.io)](YOUR_MICROSOFT_LEARN_VERIFICATION_URL)
+
+<!-- Azure Architect Design -->
+[![Azure Architect Design](https://shields.io)](YOUR_MICROSOFT_LEARN_VERIFICATION_URL)
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
