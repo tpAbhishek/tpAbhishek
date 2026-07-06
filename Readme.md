@@ -12,9 +12,9 @@ With **20 years of experience** in application design and cloud architecture, I 
 * [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/abhishektp-6380/credentials/6fb4f9a9cf2bd682?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/abhishektp-6380/credentials/9fd7d8380c6693e2?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [AlgoExpert: Systems Expert](https://certificate.algoexpert.io/SystemsExpert%20Certificate%20SE-00379bfeda)
-* [SAFe 4 Agilist](./credentials/Safe4Certificate.pdf)
+* [SAFe 4 Agilist](./Credentials/Safe4Certificate.pdf)
 * [Software Architecture & Technology of Large-Scale Systems](https://www.udemy.com/certificate/UC-087329c4-9c27-4f8a-a046-347b899cb86b/)
-* [Docker](./certifications/DockerKodeCloud.pdf)
+* [Docker](./Certifications/DockerKodeCloud.pdf)
 
 ### 📁 Architecture Projects
 - <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
