@@ -18,6 +18,8 @@ With **20 years of experience** in application design and cloud architecture, I 
 
 ### 📁 Architecture Projects
 - <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
+- <a href="https://github.com/tpAbhishek/LegacyAppModernization
+">Legacy ASP.NET Modernization Using Azure Event-Driven Processing</a>
 
 ### 🛠️ Skills & Architectural Expertise
 
