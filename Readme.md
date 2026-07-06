@@ -12,10 +12,10 @@ With **20 years of experience** in application design and cloud architecture, I 
 * **Microsoft Azure Multi-Certified** (Solutions Architect Expert track)
 * [Verify my credentials on 
 
-### ⚡ Architecture Projects
+### 📁 Architecture Projects
 - <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
 
-### 💻 Tech Stack:
+### ⚡Tech Stack:
 <div data-importer="techs" align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
