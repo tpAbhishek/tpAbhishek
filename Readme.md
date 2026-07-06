@@ -4,7 +4,7 @@ With **20 years of experience** in application design and cloud architecture, I 
 
 ### 🚀 What I Do Best
 * **Cloud Architecture & Migration:** Proven track record of leading large-scale cloud transformations.
-* **Cost & Performance Optimization:** Led a major migration achieving a **15% reduction in operational costs** and a **10% efficiency gain** within 9 months.
+* **Cost & Performance Optimization:** Led a major migration achieving a **15% reduction in operational costs** and a *25% efficiency gain** within 9 months.
 * **Security & Automation:** Specializing in secure-by-design frameworks using cutting-edge automation tools.
 * **Project Delivery:** Experienced team lead aligning technical roadmaps with executive business goals.
 
