@@ -1,28 +1,21 @@
-# 💫 About Me:
-Experienced Software Architect and Azure Solutions Architect with 20 years in cloud solutions, application design, project delivery, and security practices. Azure multi-certified, specializing in building scalable, secure, and cost-efficient architectures using automation tools. Led a major cloud migration, achieving a 15% reduction in operational costs and a 10% efficiency gain within nine months.
+# 🏛️ Enterprise Software & Cloud Architect
 
-## Architecture Projects
+With **20 years of experience** in application design and cloud architecture, I bridge the gap between complex business requirements and robust, secure cloud solutions. 
+
+### 🚀 What I Do Best
+* **Cloud Architecture & Migration:** Proven track record of leading large-scale cloud transformations.
+* **Cost & Performance Optimization:** Led a major migration achieving a **15% reduction in operational costs** and a **10% efficiency gain** within 9 months.
+* **Security & Automation:** Specializing in secure-by-design frameworks using cutting-edge automation tools.
+* **Project Delivery:** Experienced team lead aligning technical roadmaps with executive business goals.
+
+### 🛡️ Verified Credentials
+* **Microsoft Azure Multi-Certified** (Solutions Architect Expert track)
+* [Verify my credentials on 
+
+### Architecture Projects
 - <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
 
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-  <!-- Azure Fundamentals -->
-[![Azure Fundamentals](https://shields.io)](YOUR_MICROSOFT_LEARN_VERIFICATION_URL)
-
-<!-- Azure Architect Design -->
-[![Azure Architect Design](https://shields.io)](YOUR_MICROSOFT_LEARN_VERIFICATION_URL)
-
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-  
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 <div data-importer="techs" align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -71,14 +64,11 @@ Experienced Software Architect and Azure Solutions Architect with 20 years in cl
 
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=plastic&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tpAbhishek&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+### 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=tpAbhishek&theme=default_repocard&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-[![](https://komarev.com/ghpvc/?username=tpAbhishek&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
