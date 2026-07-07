@@ -8,6 +8,13 @@ With **20 years of experience** in application design and cloud architecture, I 
 * **Security & Automation:** Specializing in secure-by-design frameworks using cutting-edge automation tools.
 * **Project Delivery:** Experienced team lead aligning technical roadmaps with executive business goals.
 
+### 📁 Architecture Projects
+- <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
+- <a href="https://github.com/tpAbhishek/LegacyAppModernization
+">Legacy App Modernization Using Azure Event-Driven Processing</a>
+- <a href="https://github.com/tpAbhishek/LegacyAppModernization
+">Legacy App Modernization Using Azure Event-Driven Processing</a>
+
 ### 🛡️ Verified Credentials
 * [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/abhishektp-6380/credentials/6fb4f9a9cf2bd682?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [AlgoExpert: Systems Expert](https://certificate.algoexpert.io/SystemsExpert%20Certificate%20SE-00379bfeda)
@@ -15,11 +22,6 @@ With **20 years of experience** in application design and cloud architecture, I 
 * [Software Architecture & Technology of Large-Scale Systems](https://www.udemy.com/certificate/UC-087329c4-9c27-4f8a-a046-347b899cb86b/)
 * [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/abhishektp-6380/credentials/9fd7d8380c6693e2?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 * [Docker](./Credentials/DockerKodeCloud.pdf)
-
-### 📁 Architecture Projects
-- <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
-- <a href="https://github.com/tpAbhishek/LegacyAppModernization
-">Legacy ASP.NET Modernization Using Azure Event-Driven Processing</a>
 
 ### 🛠️ Skills & Architectural Expertise
 
@@ -79,9 +81,6 @@ With **20 years of experience** in application design and cloud architecture, I 
 * **Observability & Management:** DynaTrace, App Insights, Azure Monitor, Splunk, HaloITSM, Sunrise, ServiceNow, SCOM, MicroFocus OMI, Radius PIM
 * **Automation & Testing:** Unit Testing (NUnit, MS Test, MOQ), TDD, FxCop, StyleCop, ReSharper, Log4Net
 * **Design & Software:** Sparx Enterprise Architect, Draw.io, Visio, Structure101, HP ALM, Passolo (Localization), Rigix
-
-### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=tpAbhishek&theme=default_repocard&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
