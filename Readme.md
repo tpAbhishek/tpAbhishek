@@ -13,10 +13,25 @@ The repositories listed below provide anonymized examples of the architectures a
 * **Project Delivery:** Experienced team lead aligning technical roadmaps with executive business goals.
 
 ### 📁 Architecture Projects
-- <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>
+- <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>  
+  ✅ Enabled near real-time fraud detection.  
+  ✅ Reduced manual fraud monitoring effort by 8%.
+  ✅ Automated fraud investigation case creation.  
+  ✅ Improved compliance and financial risk management.  
 - <a href="https://github.com/tpAbhishek/LegacyAppModernization">Legacy App Modernization Using Azure Event-Driven Processing</a>
-- <a href="https://github.com/tpAbhishek/EnterpriseEventGateway">Enterprise Event Gateway</a>
-- <a href="https://github.com/tpAbhishek/MainframeMigration">Mainframe Migration to Microsoft Tech Stack</a>
+  ✅ Increased loan processing throughput from 900 applications/day to approximately 1,130 applications/day (~25% improvement).  
+  ✅ Avoided expensive front-end technology migration and associated training costs.  
+  ✅ Introduced REST APIs, providing a clear migration path away from legacy SOAP services.
+- <a href="https://github.com/tpAbhishek/EnterpriseEventGateway">Enterprise Event Gateway</a>  
+  ✅ Enabled near real-time loan application notifications.  
+  ✅ Reduced infrastructure load by adopting an event-driven architecture.  
+  ✅ Increased partner satisfaction through self-service event subscriptions.  
+- <a href="https://github.com/tpAbhishek/MainframeMigration">Mainframe Migration to Microsoft Tech Stack</a>  
+  ✅ Reduced onboarding duration from 2 weeks to 2 days  
+  ✅ Loan authorization duration from 72 to 24 hours  
+  ✅ Increase in transaction capacity by 30%  
+  ✅ Improvement in collections efficiency by 30%  
+  ✅ Increased business up time from 98% to 99.9%  
 
 ### 🛡️ Verified Credentials
 * [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/abhishektp-6380/credentials/6fb4f9a9cf2bd682?ref=https%3A%2F%2Fwww.linkedin.com%2F)
