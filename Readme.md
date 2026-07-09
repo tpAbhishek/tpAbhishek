@@ -15,10 +15,10 @@ The repositories listed below provide anonymized examples of the architectures a
 ### 📁 Architecture Projects
 - <a href="https://github.com/tpAbhishek/FraudDetection">Real-Time Fraud Detection & Case Management Platform</a>  
   ✅ Enabled near real-time fraud detection.  
-  ✅ Reduced manual fraud monitoring effort by 8%.
+  ✅ Reduced manual fraud monitoring effort by 8%.  
   ✅ Automated fraud investigation case creation.  
   ✅ Improved compliance and financial risk management.  
-- <a href="https://github.com/tpAbhishek/LegacyAppModernization">Legacy App Modernization Using Azure Event-Driven Processing</a>
+- <a href="https://github.com/tpAbhishek/LegacyAppModernization">Legacy App Modernization Using Azure Event-Driven Processing</a>  
   ✅ Increased loan processing throughput from 900 applications/day to approximately 1,130 applications/day (~25% improvement).  
   ✅ Avoided expensive front-end technology migration and associated training costs.  
   ✅ Introduced REST APIs, providing a clear migration path away from legacy SOAP services.
