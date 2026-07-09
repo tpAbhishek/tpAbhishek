@@ -1,6 +1,10 @@
 # 🏛️ Enterprise Software & Cloud Architect
 
-With **20 years of experience** in application design and cloud architecture, I bridge the gap between complex business requirements and robust, secure cloud solutions. 
+I am an Enterprise Software & Cloud Architect with 20 years of experience designing and delivering Azure and .NET‑based solutions for banking, insurance, life sciences, retail and healthcare.
+
+I specialize in cloud migration, secure‑by‑design architectures, event‑driven and microservices‑based systems, and governance for complex enterprise platforms.
+
+The repositories listed below provide anonymized examples of the architectures and solutions I have led, including fraud detection platforms, legacy modernization, event gateways and mainframe migration to the Microsoft stack.
 
 ### 🚀 What I Do Best
 * **Cloud Architecture & Migration:** Proven track record of leading large-scale cloud transformations.
